@@ -3,7 +3,7 @@ name: CI/CD Pipeline
 on:
   push:
     branches:
-      - main  # Mude para o nome da sua branch principal, se necessário
+      - main 
 
 jobs:
   build:
